@@ -1,4 +1,6 @@
+
 {
+    "name": "gtwtest/gtwtest",
     "repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/gtwtest/"},
         {"packagist.org": false}
